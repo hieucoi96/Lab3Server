@@ -1,0 +1,22 @@
+{
+  "name": "hieucoi669",
+  "version": "1.0.0",
+  "description": "tinder-clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieucoi96/Lab3Server.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Hoang Minh Hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieucoi96/Lab3Server/issues"
+  },
+  "homepage": "https://github.com/hieucoi96/Lab3Server#readme"
+}
