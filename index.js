@@ -6,7 +6,7 @@ http.createServer(function (request, response) {
     var url = request.url;
 
     if (url == '/') {
-        response.writeHead('200', {'Content-Type': 'text/html'});
+        response.writeHead('200', {'Content-Type': 'text/html', 'Content-Type': 'text/css'});
         fs.readFile('index.html', function (error, data) {
             if (error == null) {
                 response.write(data);
